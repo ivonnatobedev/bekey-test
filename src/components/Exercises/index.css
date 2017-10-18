@@ -1,0 +1,12 @@
+.exercises-list {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.exercises-list ul {
+    list-style: none;
+}
+
+.exercise-item {
+    padding: 10px 0;
+}

@@ -1,0 +1,1 @@
+export const API_ENDPOINT = "http://dev.videotherapy.co/vt/api/dispatcher.php";
